@@ -6,7 +6,7 @@
 3. Перехват ответа от бэкенда содержащий типы транспорта и подмена на новый тип — Аэротакси
    Чек-лист: тестирование нового вида транспорта Аэротакси
 * [Чек-листы, Тест-кейсы](https://docs.google.com/spreadsheets/d/1S1aHiuUhtnkox5wILGWq1cweyXXyGsxAZBe23W1ntYU/edit?gid=899462569#gid=899462569)
-
+  
 * [Оригинальный запрос видов транспорта](https://drive.google.com/file/d/1O--ZoNGzF5rCqeWqmXjt9dLM4s9Mxgcv/view?usp=sharing)
 * [Изменённый запрос видов транспорта](https://drive.google.com/file/d/1PsVZFuKK9q5tYKASXYdT4CsC8Q80mYyL/view?usp=sharing)
 * [Настройка автозамены запроса видов транспорта](https://drive.google.com/file/d/1MeiZWo20Y8PfBUc2d3Hysdz5cy4oDeI2/view?usp=sharing)
