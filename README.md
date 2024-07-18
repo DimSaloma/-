@@ -3,9 +3,9 @@
 1. Чек-лист - GUI и функциональное тестирование десктопной и мобильной версии web-сайта
 2. Таблица КЭ и ГЗ полей ввода                              
    Чек-лист - тестирование формы «Пожертвование»
-[Таблица КЭ и ГЗ](https://docs.google.com/spreadsheets/d/1PZ0vQBJLO-XM-QUXyDQQKtdofJ-KRhE7fS2gAY4AI6s/edit?usp=sharing)
-[Чек-листы](https://docs.google.com/spreadsheets/d/13TbjaDvSkyZp5zgLqvj9g_I2fE_v2TamNEoqcH7X0BY/edit?usp=sharing)
-[Отчёт о тестировании](https://docs.google.com/spreadsheets/d/1m3osWoH_niLmH9MkkC_QjIUtqBAHO8sZKZohr-ijUnI/edit?usp=sharing)
+* [Таблица КЭ и ГЗ](https://docs.google.com/spreadsheets/d/1PZ0vQBJLO-XM-QUXyDQQKtdofJ-KRhE7fS2gAY4AI6s/edit?usp=sharing)
+* [Чек-листы](https://docs.google.com/spreadsheets/d/13TbjaDvSkyZp5zgLqvj9g_I2fE_v2TamNEoqcH7X0BY/edit?usp=sharing)
+* [Отчёт о тестировании](https://docs.google.com/spreadsheets/d/1m3osWoH_niLmH9MkkC_QjIUtqBAHO8sZKZohr-ijUnI/edit?usp=sharing)
 ---
 📝 **web-приложение «Parkonaft»**
 1. Чек-лист - GUI и функциональное тестирование десктопной и мобильной версии web-приложения
