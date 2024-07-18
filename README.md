@@ -1,6 +1,6 @@
 ---
 📝 **Яндекс Маршруты**
-1. Диаграмма связей к к Яндекс Маршрутам
+1. Диаграмма связей
 * [MindMap](https://drive.google.com/file/d/1VmnJP9jyDfWRQwXWjocCv6ZBtmencj2l/view?usp=sharing)
   
 2. Таблица КЭ и ГЗ для полей «Время начала поездки», «Откуда» и «Куда».                        
